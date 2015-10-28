@@ -1,7 +1,7 @@
 name: exggagetrail
 favicon: null
-layout_spectrum: 0.3375547581817955
-typography_spectrum: 0.6202608298044652
+layout_spectrum: 0
+typography_spectrum: 0.40404
 cta:
   domain: null
   bucket: null
