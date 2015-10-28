@@ -1,0 +1,23 @@
+name: exggagetrail
+favicon: null
+layout_spectrum: 0.3375547581817955
+typography_spectrum: 0.6202608298044652
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.22609997726976871
+  lightness: 0.018033507512882352
+  saturation: 0.28432397870346904
+  rhythmicContrast: 0.7313703333493322
+purpose: []
